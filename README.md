@@ -74,7 +74,7 @@ Após a confirmação, a encomenda muda para o status **Entregue** e o históric
 ---
 
 ## Modelo de mensagem WhatsApp
-
+<!-- {% raw %} -->
 Na tela de Configurações você pode personalizar o texto que é enviado ao morador. Use os campos entre `{{ }}` para inserir dados automaticamente:
 
 | Campo | O que insere |
@@ -93,7 +93,7 @@ Código de retirada: {{codigo_retirada}}
 Unidade: {{unidade}}
 Data de chegada: {{data}}
 ```
-
+<!-- {% endraw %} -->
 ---
 
 ## Importação de moradores via CSV
