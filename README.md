@@ -1,4 +1,7 @@
 # Condo Encomendas Lite 
+<img src="assets/banner.png" />
+
+
 <img src="assets/icon.png" width="50" />
 
 **Controle de encomendas para portaria — 100% offline, sem custos, sem cadastro.**
